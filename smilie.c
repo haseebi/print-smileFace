@@ -16,5 +16,15 @@ void main()
 	printf("are the ");
 	printf("%d",&limit);
 	printf(" smiley face.");
+	printf("➡️👍👍⬅️");
+	 int r, c;  
+  
+    for(r = 0; r <= 43; r++)  
+    {  
+        for(c = 0; c <= 79; c++)  
+        {  
+           printf("%c", 1);  
+        }  
+    }  
 	getch();
 }
